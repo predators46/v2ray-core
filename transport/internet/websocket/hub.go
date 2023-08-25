@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gorilla/websocket"
+	"github.com/predators46/websocket"
 
 	"github.com/v2fly/v2ray-core/v5/common"
 	"github.com/v2fly/v2ray-core/v5/common/net"
